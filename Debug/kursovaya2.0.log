@@ -1,0 +1,48 @@
+﻿  kursovaya2.0.cpp
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1336,30): warning C4018: '>': signed/unsigned mismatch
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1345,30): warning C4018: '>': signed/unsigned mismatch
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1354,30): warning C4018: '>': signed/unsigned mismatch
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1363,30): warning C4018: '>': signed/unsigned mismatch
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1372,30): warning C4018: '>': signed/unsigned mismatch
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1403,31): warning C4018: '>': signed/unsigned mismatch
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1432,31): warning C4018: '>': signed/unsigned mismatch
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1465,31): warning C4018: '>': signed/unsigned mismatch
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1498,31): warning C4018: '>': signed/unsigned mismatch
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1531,31): warning C4018: '>': signed/unsigned mismatch
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1643,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1644,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1645,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1646,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1647,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1648,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1649,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1652,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1685,8): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1702,8): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1719,8): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1736,8): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1753,8): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(644,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(814): message : see reference to function template instantiation 'void Library::SortBookYears<Books::ClassicBook>(std::vector<Books::ClassicBook,std::allocator<Books::ClassicBook>>)' being compiled
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(842,7): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(886): message : see reference to function template instantiation 'void Library::ShowOneBook<_Ty>(T)' being compiled
+          with
+          [
+              _Ty=Books::ClassicBook,
+              T=Books::ClassicBook
+          ]
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(856,7): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(941): message : see reference to function template instantiation 'void Library::WriteOneBook<_Ty>(T,std::fstream *)' being compiled
+          with
+          [
+              _Ty=Books::ClassicBook,
+              T=Books::ClassicBook
+          ]
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1601,8): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1331): message : see reference to function template instantiation 'void Library::ShowBooks<Books::ClassicBook>(std::vector<Books::ClassicBook,std::allocator<Books::ClassicBook>>)' being compiled
+D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\kursovaya2.0.cpp(1849): warning C4715: 'Auto': not all control paths return a value
+  kursovaya2.0.vcxproj -> D:\BSUIR\Курсач\kursovaya2.0\kursovaya2.0\Debug\kursovaya2.0.exe
